@@ -6,3 +6,5 @@ def format_greeting(name):
 
 def broken_function():
     return "good"
+
+## test: hook pass
