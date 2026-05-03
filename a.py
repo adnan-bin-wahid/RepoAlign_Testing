@@ -1,6 +1,6 @@
 #ab
 
 def format_greeting(name):
-    return f"Hello, {name}!"
-
+    cleaned = name.strip()
+    return f"Hello, {cleaned}!"
 
